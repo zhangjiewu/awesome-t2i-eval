@@ -37,6 +37,10 @@ This repository contains a collection of resources and papers on ***Text-to-Imag
   [![Star](https://img.shields.io/github/stars/YujieLu10/LLMScore.svg?style=social&label=Star)](https://github.com/YujieLu10/LLMScore)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11116)
 
++ [X-IQE: eXplainable Image Quality Evaluation for Text-to-Image Generation with Visual Large Language Models](https://arxiv.org/abs/2305.10843) (May, 2023)  
+  [![Star](https://img.shields.io/github/stars/Schuture/Benchmarking-Awesome-Diffusion-Models.svg?style=social&label=Star)](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10843)
+
 + [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/abs/2305.01569) (May, 2023)  
   [![Star](https://img.shields.io/github/stars/yuvalkirstain/PickScore.svg?style=social&label=Star)](https://github.com/yuvalkirstain/PickScore)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01569)
