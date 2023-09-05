@@ -67,11 +67,14 @@ This repository contains a collection of resources and papers on ***Text-to-Imag
 
 + [IS (Inception Score)](https://arxiv.org/abs/1606.03498)
   [![Star](https://img.shields.io/github/stars/openai/improved-gan?style=social&label=Star)](https://github.com/openai/improved-gan)
+  [![Star](https://img.shields.io/github/stars/sbarratt/inception-score-pytorch?style=social&label=Star)](https://github.com/sbarratt/inception-score-pytorch)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1606.03498)
   - **Summary**: IS evaluates the quality and diversity of generated images.
+  - **Implemetation**: [PyTorch](
 
 + [FID (Fréchet Inception Distance)](https://arxiv.org/abs/1706.08500)
   [![Star](https://img.shields.io/github/stars/bioinf-jku/TTUR?style=social&label=Star)](https://github.com/bioinf-jku/TTUR)
+  [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.08500)
   - **Summary**: FID measures the quality of generated images by comparing the distribution of generated images to real images in the feature space of a pre-trained Inception network.
     
