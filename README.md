@@ -19,6 +19,11 @@ This repository contains a collection of resources and papers on ***Text-to-Imag
 + [Let's ViCE! Mimicking Human Cognitive Behavior in Image Generation Evaluation](https://arxiv.org/abs/2307.09416) (Jul., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09416)
 
++ [Divide, Evaluate, and Refine: Evaluating and Improving Text-to-Image Alignment with Iterative VQA Feedback](https://arxiv.org/abs/2307.04749) (Jul., 2023)  
+  [![Star](https://img.shields.io/github/stars/1jsingh/Divide-Evaluate-and-Refine.svg?style=social&label=Star)](https://github.com/1jsingh/Divide-Evaluate-and-Refine)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.04749)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://1jsingh.github.io/divide-evaluate-and-refine)
+
 + [T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation](https://arxiv.org/abs/2307.06350) (Jul., 2023)  
   [![Star](https://img.shields.io/github/stars/Karine-Huang/T2I-CompBench.svg?style=social&label=Star)](https://github.com/Karine-Huang/T2I-CompBench)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06350)
@@ -70,14 +75,15 @@ This repository contains a collection of resources and papers on ***Text-to-Imag
   [![Star](https://img.shields.io/github/stars/sbarratt/inception-score-pytorch?style=social&label=Star)](https://github.com/sbarratt/inception-score-pytorch)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1606.03498)
   - **Summary**: IS evaluates the quality and diversity of generated images.
-  - **Implemetation**: [PyTorch](
+  - **Implemetation**: [PyTorch](https://github.com/sbarratt/inception-score-pytorch)
 
 + [FID (Fréchet Inception Distance)](https://arxiv.org/abs/1706.08500)
   [![Star](https://img.shields.io/github/stars/bioinf-jku/TTUR?style=social&label=Star)](https://github.com/bioinf-jku/TTUR)
   [![Star](https://img.shields.io/github/stars/mseitzer/pytorch-fid?style=social&label=Star)](https://github.com/mseitzer/pytorch-fid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.08500)
   - **Summary**: FID measures the quality of generated images by comparing the distribution of generated images to real images in the feature space of a pre-trained Inception network.
-    
+  - **Implemetation**: [PyTorch](https://github.com/mseitzer/pytorch-fid)
+
 + [CLIP Score](https://arxiv.org/abs/2103.00020)
   [![Star](https://img.shields.io/github/stars/openai/CLIP?style=social&label=Star)](https://github.com/openai/CLIP)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.00020)
